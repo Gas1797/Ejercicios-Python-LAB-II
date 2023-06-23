@@ -1,0 +1,2 @@
+nom,apell,edad,lolcal,
+gab,sua,122,avellaneda,
