@@ -30,7 +30,9 @@ with open("numtelefonicos.txt", "r") as archivo:
 
 
 print("\n")
-
+numeros = open("numtelefonicos.txt", "r")
+for line in numeros.readline():
+    print (line)
 
 #diccionarios:
 
